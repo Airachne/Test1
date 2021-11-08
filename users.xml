@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Users xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <usersNames>
+    <name>Anton</name>
+    <name>Boris</name>
+    <name>Maria</name>
+    <name>Boris</name>
+    <name>Anton</name>
+  </usersNames>
+  <usersAge>
+    <age>37</age>
+    <age>30</age>
+    <age>35</age>
+    <age>22</age>
+    <age>22</age>
+  </usersAge>
+  <usersRelation>
+    <relation>true</relation>
+    <relation>false</relation>
+    <relation>false</relation>
+    <relation>false</relation>
+    <relation>true</relation>
+  </usersRelation>
+</Users>
